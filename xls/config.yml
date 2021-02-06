@@ -1,0 +1,14 @@
+url:
+  call: http://api.call.shopmell.com
+  admin: http://api.admin.shopmell.com
+  picture: http://api.picture.shopmell.com
+  supplier: http://api.supplier.shopmell.com
+  erp: http://api.erp.shopmell.com
+  work: http://api.work.shopmell.com
+  portal: http://api.portal.shopmell.com
+  customer-logistics: http://api.customer.logistics.shopmell.com
+  logistics: http://api.logistics.shopmell.com
+
+header:
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko)Chrome/84.0.4147.105 Safari/537.36
+  Content-Type: application/json
